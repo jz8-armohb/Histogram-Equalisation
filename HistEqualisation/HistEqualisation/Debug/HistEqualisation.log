@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\s.z.zheng\OneDrive\文档\CUC课程 - OD\大三下学期课程 - OD\数字视频处理 - OD\实验\实验2：直方图均衡\HistEqualisation\HistEqualisation\main.cpp(110,34): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  HistEqualisation.vcxproj -> C:\Users\s.z.zheng\OneDrive\文档\CUC课程 - OD\大三下学期课程 - OD\数字视频处理 - OD\实验\实验2：直方图均衡\HistEqualisation\Debug\HistEqualisation.exe
